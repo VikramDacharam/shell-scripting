@@ -6,5 +6,11 @@ echo Hello world
 
 echo -e "Hello\nWorld"
 
+# colors added to the text
+
+echo -e "\e[32mred text"
+
+echo normal text
+
 
 
