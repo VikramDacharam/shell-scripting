@@ -4,7 +4,7 @@ echo Hello world
 
 # with single command we can print multiple lines by /n"
 
-echo -e "Hello/nworld"
+echo -e "Hello\nWorld"
 
 
 
