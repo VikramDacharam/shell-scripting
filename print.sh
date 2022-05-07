@@ -8,7 +8,7 @@ echo -e "Hello\nWorld"
 
 # colors added to the text
 
-echo -e "\e[32mred text"
+echo -e "\e[32mgreen text\e[0m"
 
 echo normal text
 
