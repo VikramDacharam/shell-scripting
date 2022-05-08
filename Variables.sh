@@ -15,3 +15,5 @@ echo FruitName = $fruit
  sum=$((2+3))
 
  echo two plus three=$sum
+
+ echo variable A from CLI =${A}
