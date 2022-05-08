@@ -6,4 +6,4 @@ fruit=Apple
 
 echo FruitName = $fruit
 
-DATE=08-05-2022
+DATE=2022-05-08
