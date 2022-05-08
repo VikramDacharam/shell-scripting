@@ -3,5 +3,5 @@
 # special characters are $0-$n,$@,$#,$*
 
 
-echo First Arguement =$1
-echo Second Arguement =$2
+echo First Arguement = $1
+echo Second Arguement = $2
