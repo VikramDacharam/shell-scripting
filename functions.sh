@@ -16,8 +16,16 @@
         echo I am a sample function
         }
 
+      sample1(){
+
+        return 2
+      }
+
         ## Main program
 
         sample
+
+        sample1
+        echo exit status of sample1 is =$?
 
 ## Function always be declared first and then we need to call them later in main program
